@@ -1,2 +1,2 @@
 # speeling-challenged
-Chrome extension that drives grammar nazis insane
+Chrome extension that makes the internet dumb again
